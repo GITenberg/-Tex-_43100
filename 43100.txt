@@ -3,10 +3,13 @@
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are
+located before using this ebook.
 
 
 
@@ -266,7 +269,7 @@ letterin' on it to tell lies forever. You know 'em.  Comin' along with
 me?" he asked, wheeling, and was answered by an almost imperceptible
 shake of his friend's head.
 
-"I'll shake hands with you, Pete," said Tex, holding ont his deft but
+"I'll shake hands with you, Pete," said Tex, holding out his deft but
 sinewy hand.  "In case I don't see you again," he explained in answer to
 his friend's look of surprise.  "I'm mebby driftin' before you get
 back."
@@ -1490,6 +1493,8 @@ all amateurs I paraded what little I had. I thought that perhaps the
 winters out here might not be as dry as they are farther west.  No doubt
 it was entirely uncalled for.  We will hope so, anyway."
 
+"Are you a physician, Mr. Jones?"
+
 "No, indeed; although I went part way through the course.  What little
 time I had left from more interesting activities, I gave to study."
 
@@ -2329,7 +2334,7 @@ that I'd won."
 "I wouldn't play for no gray hoss--they're plumb unlucky with me.  I
 ain't superstitious, but I shore don't like gray hosses."
 
-"Got any thin' ag'in' sorrels?" Williams asked with deep sarcasm.
+"Got anythin' ag'in' sorrels?" Williams asked with deep sarcasm.
 
 "Nothin' much; but I'm shore stuck on blacks an roans.  I call them
 hosses!" Tex grinned at the crowd and looked back at Williams.  "Yes,
@@ -2549,10 +2554,10 @@ when it came down, sidestepped, and as it fell, punched it across the
 stable.  Turning gravely he shook hands with the surprised stableman,
 slapped him on the shoulder and burst out laughing.  "Where'n blazes did
 he dig 'em up?  He don't know what one of them names means; _There was
-the Veil through which I might not see. Come, John: Oh, many a Cup of
-this forbidden Wine must drown the memory of that insolence!  Wait till
-I get my hat: Better be jocund with the fruitful Grape than sadden after
-none, or bitter, Fruit._"
+the Veil through which I might not see_. Come, John: _Oh, many a Cup of
+this forbidden Wine must drown the memory of that insolence!_  Wait till
+I get my hat: _Better be jocund with the fruitful Grape than sadden
+after none, or bitter, Fruit._"
 
 Carney gave them a nonchalant welcome and displayed little interest in
 them until Graves told him about the horse.
@@ -3841,7 +3846,7 @@ you go up to Williams' store?  He's got th' laudanum, an' knows how to
 fix it up for toothaches an' earaches, I reckon."
 
 "Williams?" queried Tex in moderate surprise. "What you talkin' about?
-He ain't runnin' no drugstore!  What's he doin' with drugs an' such
+He ain't runnin' no drug-store!  What's he doin' with drugs an' such
 stuff?"
 
 Graves laughed and contemplated the lock with strong disapproval.  "No,
@@ -5422,7 +5427,7 @@ sand.  Th' downstream side is that hog-back.  That means that there's a
 thunderin' big, natural riffle in th' bed of th' crick, an' it's stopped
 and held th' sand till th' basin was full. Every freshet that comes
 along riles that sand up, lots of it bein' washed over th' riffle, an'
-carried along.  More cand settles there as th' water quits rushin'; but
+carried along.  More sand settles there as th' water quits rushin'; but
 here's th' pint."  He jabbed at Denver and drew a line into the Gilpin
 County country, stopping at Central City.  "Gold is heavy, an' it don't
 wash over riffles if it can settle down in front of 'em.  While th' sand
@@ -5455,7 +5460,7 @@ git th' water out, an' then there's th' sand!"
 Tex stretched, caught sight of a rider bobbing along the C Bar trail and
 looked reflectively at Williams' Mecca.  "You got to get some dynamite
 or blastin' powder.  Dynamite's better.  Put some sticks on th'
-downstream side of that rock riffle an' wait till Jake comes into town.
+down-stream side of that rock riffle an' wait till Jake comes into town.
 You crack that riffle open an' th' water will move out for you.  Then
 you can dig down th' other face of it an' get to th' pocket a lot
 quicker."  He laughed suddenly.  "Do that blastin'.  Then when Jake gets
@@ -6109,7 +6114,7 @@ growling: "Takes about twenty more to see this circus."
 
 Williams hesitated, looking at the dealer's neat little stack of cards.
 He was convinced from the way Tex had acted that the pat hand was a
-bluff, for its owner had not been caught blurring since the game
+bluff, for its owner had not been caught bluffing since the game
 started, which indicated that he had labored to establish the reputation
 of playing only intrinsic hands, which would give a later bluff a strong
 and false value.  He saw and raised a dollar, hoping that someone would
@@ -6166,7 +6171,7 @@ voices.
 said: "Marshal's been real kind to us, Hank," and Tex never was quite
 certain of the old man's meaning.
 
-Williams looked around as Tex leaned against the bar. "How'd you come
+Williams looked around as Tex leaned against the bar. "How'd _you_ come
 out?" he asked, his face showing his anger.
 
 "I lost," answered Tex carelessly.  "Not anythin' to speak of: a few
@@ -6174,7 +6179,7 @@ dollars, I reckon.  I told 'em two dollars, for they're swelled up with
 pride as things are.  They must 'a' got into you real heavy."
 
 Williams sneered.  "Heavy for them, I reckon.  I ain't limpin'.  They
-got too cus-sed much luck."
+got too cussed much luck."
 
 "Luck?" muttered the marshal, gazing inquiringly at the glass of whiskey
 he had raised from the bar, as though it might tell him what he wanted
@@ -8340,7 +8345,7 @@ cartridges, their wicked black fuses capped and inserted.  Tim Murphy,
 like Napoleon, put his trust in heavy artillery.
 
 Costigan was nowhere to be seen.  Down the track lights shone under the
-cracks of the doors of the tool-shed and the box-car habitation of the
+cracks of the doors of the toolshed and the box-car habitation of the
 section-boss, and one curtained window of Costigan's rented cottage
 glowed dully against the night.  Crickets shrilled and locusts fiddled,
 and there were no signs of impending danger.
@@ -9061,7 +9066,7 @@ Heedless of Charley's vexatious appeal they shot past him and kept on
 while he swung his pony around and saw them sweep up to the slowing roan
 and surround him and his rider. More soberly, after a hilarious welcome,
 the four, with Charley endeavoring to wedge into shifting openings not
-half large enough for his pony, they rode up to the ranch-house, where
+half large enough for his pony, they rode up to the ranchhouse, where
 Jerry had run out to meet them, Margaret Nelson at his heels.  As soon
 as he could Tex asked for Jane and learned that she was resting.
 
@@ -9658,21 +9663,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/43100
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg(tm) electronic works to protect the
-Project Gutenberg(tm) concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You may
-use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away - you may do practically _anything_ with public
-domain eBooks.  Redistribution is subject to the trademark license,
-especially commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg(tm)
+electronic works to protect the Project Gutenberg(tm) concept and
+trademark. Project Gutenberg is a registered trademark, and may not be
+used if you charge for the eBooks, unless you receive specific
+permission. If you do not charge anything for copies of this eBook,
+complying with the rules is very easy. You may use this eBook for nearly
+any purpose such as creation of derivative works, reports, performances
+and research.  They may be modified and printed and given away - you may
+do practically _anything_ in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 
 
@@ -9718,9 +9724,9 @@ works. See paragraph 1.E below.
 Foundation" or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg(tm) electronic works. Nearly all the individual works
 in the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg(tm) mission of promoting free access to electronic
@@ -9751,21 +9757,25 @@ on which the phrase "Project Gutenberg" appears, or with which the
 phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you'll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg(tm) electronic work is
-derived from the public domain (does not contain a notice indicating
-that it is posted with permission of the copyright holder), the work can
-be copied and distributed to anyone in the United States without paying
-any fees or charges. If you are redistributing or providing access to a
-work with the phrase "Project Gutenberg" associated with or appearing on
-the work, you must comply either with the requirements of paragraphs
-1.E.1 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg(tm) trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+derived from texts not protected by U.S. copyright law (does not contain
+a notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase "Project Gutenberg"
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg(tm) trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg(tm) electronic work is
 posted with the permission of the copyright holder, your use and
@@ -9839,21 +9849,22 @@ provided that
 *1.E.9.* If you wish to charge a fee or distribute a Project
 Gutenberg(tm) electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg(tm) trademark. Contact the
-Foundation as set forth in Section 3. below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg(tm)
+trademark. Contact the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg(tm) collection.
-Despite these efforts, Project Gutenberg(tm) electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg(tm) collection. Despite these efforts, Project Gutenberg(tm)
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -9939,13 +9950,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation's web site and official page
-at http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -10000,9 +10011,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg(tm) eBooks with only a loose network of volunteer support.
 
 Project Gutenberg(tm) eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook's eBook
 number, often in several formats including plain vanilla ASCII,
